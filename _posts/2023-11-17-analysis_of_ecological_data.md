@@ -6,7 +6,7 @@ image: assets/images/R_course.png
 featured: true
 comments: false
 hidden: false
-description: "Full semster weekly course. Introduction to R."
+description: "Full semester weekly course. Introduction to R."
 ---
 
 
