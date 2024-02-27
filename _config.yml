@@ -1,5 +1,5 @@
 # Site
-name: "mlspatial"
+name: "Remote Sensing and Spatial Modelling Courses"
 title: "Remote Sensing and Spatial Modelling Courses"
 description: "Material collection for spatial landscape ecology."
 logo: 'assets/images/logo.jpg'
@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.jpg'
 baseurl: ""
 disqus: 'demowebsite'
 include: ["_pages"]
-permalink: /:title/
+permalink: teaching.mlspatial.org/:title/
 
 # Authors
 authors:

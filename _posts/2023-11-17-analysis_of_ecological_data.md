@@ -3,7 +3,7 @@ layout: post
 title:  "Analysis and visualization of ecological data in R"
 categories: [ course, R ]
 image: assets/images/R_course.png
-featured: true
+featured: false
 comments: false
 hidden: false
 description: "Full semester weekly course. Introduction to R."
