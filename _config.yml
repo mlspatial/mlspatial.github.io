@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.jpg'
 baseurl: ""
 disqus: 'demowebsite'
 include: ["_pages"]
-permalink: teaching.mlspatial.org/:title/
+permalink: /:title/
 
 # Authors
 authors:
